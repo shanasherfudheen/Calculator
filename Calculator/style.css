@@ -1,0 +1,23 @@
+#calculator {
+    width: 300px;
+    margin: 0 auto;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 20px;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+#result {
+    font-size: 24px;
+}
